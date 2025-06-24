@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1750207452072" clover="3.2.0">
-  <project timestamp="1750207452073" name="All files">
-    <metrics statements="24" coveredstatements="17" conditionals="6" coveredconditionals="4" methods="7" coveredmethods="4" elements="37" coveredelements="25" complexity="0" loc="24" ncloc="24" packages="1" files="2" classes="2"/>
-    <file name="ShortenService.ts" path="C:\Users\Professor.SN-398475\Documents\Gustavo DESI\encurtador\encurtador-backend\src\Services\ShortenService.ts">
-      <metrics statements="18" coveredstatements="11" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="2"/>
+<coverage generated="1750723665000" clover="3.2.0">
+  <project timestamp="1750723665001" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="6" coveredconditionals="6" methods="7" coveredmethods="7" elements="37" coveredelements="37" complexity="0" loc="24" ncloc="24" packages="1" files="2" classes="2"/>
+    <file name="ShortenService.ts" path="C:\Users\rosane_maia\Desktop\Encurtador\shorten-service\encurtador-backend\src\Services\ShortenService.ts">
+      <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
@@ -14,16 +14,16 @@
       <line num="12" count="2" type="stmt"/>
       <line num="19" count="2" type="stmt"/>
       <line num="21" count="2" type="stmt"/>
-      <line num="25" count="0" type="stmt"/>
-      <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
-      <line num="27" count="0" type="stmt"/>
-      <line num="30" count="0" type="stmt"/>
-      <line num="33" count="0" type="stmt"/>
-      <line num="34" count="0" type="stmt"/>
-      <line num="35" count="0" type="stmt"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="26" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
       <line num="39" count="1" type="stmt"/>
     </file>
-    <file name="SumService.ts" path="C:\Users\Professor.SN-398475\Documents\Gustavo DESI\encurtador\encurtador-backend\src\Services\SumService.ts">
+    <file name="SumService.ts" path="C:\Users\rosane_maia\Desktop\Encurtador\shorten-service\encurtador-backend\src\Services\SumService.ts">
       <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
